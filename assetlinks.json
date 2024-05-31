@@ -1,1 +1,9 @@
-"[]" 
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.calgary",
+    "sha256_cert_fingerprints":
+    ["3F:22:FD:50:6F:00:B1:D3:6F:C5:36:45:20:F3:DB:11:65:F5:4B:49:0B:23:DB:8B:22:B7:43:F5:37:09:09:FE"]
+  }
+}]
