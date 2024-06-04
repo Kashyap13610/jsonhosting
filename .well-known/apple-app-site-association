@@ -7,7 +7,12 @@
           "LYTQ3DGC2U.com.example.calgaryHostApp"
         ],
         "paths": [
-          "/details*"
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
         ]
       }
     ]
